@@ -7,7 +7,7 @@ exampleConfigMap:
     var4: |
       test1
       test2
-      this is a config file
+      this is a config file from another repo
       yaml:
         key:
           - value1
